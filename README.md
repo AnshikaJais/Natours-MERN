@@ -12,8 +12,7 @@
  ```
  - Install the dependencies
  
- 
- ```bash 
+```bash 
   npm install 
   npm start
 ```
