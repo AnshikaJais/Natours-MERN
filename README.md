@@ -7,10 +7,9 @@
 ```bash 
  git clone https://github.com/AnshikaJais/node-farm-MERN.git
  
- ```
+```
  
- ```
- - Install the dependencies
+Install the dependencies
  
 ```bash 
   npm install 
