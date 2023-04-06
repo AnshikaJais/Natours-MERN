@@ -5,7 +5,7 @@
 -clone the project 
 
 ```bash 
- git clone 
+ git clone https://github.com/AnshikaJais/node-farm-MERN.git
  
  ```
  
@@ -15,3 +15,5 @@
  
  ```bash 
   npm install 
+  npm start
+```
